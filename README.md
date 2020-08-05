@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, my name is August ☀️ I'm a multilingual developer who loves teaching~
 
-<!--
-**Augs0/Augs0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'd love to get involved with any projects related to accessibility or tech for good 🦸‍♀️
 
-Here are some ideas to get you started:
+🌱 I’m currently learning React.js, - with some Gatsby.js for good measure - Python, and PHP. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 I am interested in all areas of development, but my strengths and preferences lie in front-end 
+
+📝 Pronouns: she/her
+
+⚙️ Please see **[my personal site for projects and more information](https://augustdev.netlify.app/)**
+
+⚡ Fun fact: My favourite animal is an otter
+
+<img align="right" alt="otter" src="https://image.shutterstock.com/image-photo/image-150nw-486183526.jpg"/>
