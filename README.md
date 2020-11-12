@@ -4,11 +4,9 @@
 
 🌍 Speak to me in: English, 日本語, Deutsch, español and 한국어. 
 
-🌱 I’m currently learning React.js, - with some Gatsby.js for good measure - Python, and PHP. 
+📝 Pronouns: she/her
 
 🎨 I am interested in all areas of development, but my strengths and preferences lie in front-end 
-
-📝 Pronouns: she/her
 
 ⚙️ Please see **[my personal site for projects and more information](https://augustdev.netlify.app/)**
 
