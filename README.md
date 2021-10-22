@@ -22,8 +22,6 @@ I'd love to get involved with any projects related to accessibility or tech for 
   
 ---
 ## Me on GitHub:
-  
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=Augs0&theme=tokyonight&hide_border=true&background=FFFFFF00">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augs0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
