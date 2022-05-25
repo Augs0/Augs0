@@ -7,15 +7,15 @@
   
 I'd love to get involved with any projects related to accessibility or tech for good 🦸‍♀️
   
-🌍 Speak to me in: English, 日本語, Deutsch, español and 한국어. 
+🌍  Speak to me in: English, 日本語, Deutsch, español and 한국어. 
 
-📝 Pronouns: she/her
+📝  Pronouns: she/her
 
-🎨 I am interested in all areas of development, but my strengths and preferences lie in front-end 
+🎨  I am interested in all areas of development, but my strengths and preferences lie in front-end. You can check out **[my profile on Codepen](https://codepen.io/augs0)** where I have some CSS-centric projects
 
-⚙️ Please see **[my personal site for projects and more information](https://augustdev.netlify.app/)**
+⚙️  Please see **[my personal site for projects and more information](https://augustdev.netlify.app/)**
 
-⚡ Fun fact: My favourite animal is an otter <img width="70" align="center" alt="otter" src="https://image.shutterstock.com/image-photo/image-150nw-486183526.jpg"/>
+⚡  Fun fact: My favourite animal is an otter <img width="70" align="center" alt="otter" src="https://image.shutterstock.com/image-photo/image-150nw-486183526.jpg"/>
 
   
 </div>
