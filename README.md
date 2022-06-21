@@ -7,7 +7,7 @@
   
 I'd love to get involved with any projects related to accessibility or tech for good 🦸‍♀️
   
-🌍  Speak to me in: English, 日本語, Deutsch, español and 한국어. 
+🌍  Speak to me in: English, 日本語, Deutsch, español, français and 한국어. 
 
 📝  Pronouns: she/her
 
@@ -22,7 +22,7 @@ I'd love to get involved with any projects related to accessibility or tech for 
   
 ---
 ## Languages and tools I can use:
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html 5"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css 3" /><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node js"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" /><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react js"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgres sql" /><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" /><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest"/>
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html 5"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css 3" /><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node js"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" /><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react js"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgres sql" /><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" /><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest"/>
 ---
 
 </div>
