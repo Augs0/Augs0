@@ -1,9 +1,9 @@
 <div align="center">
-  
-## Hi, my name is August ☀️ I'm a multilingual developer who loves teaching~
+
+![Metrics](https://metrics.lecoq.io/Augs0?template=classic&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FLondon)
 
 
-<div align="left">
+
   
 I'd love to get involved with any projects related to accessibility or tech for good 🦸‍♀️
   
@@ -14,11 +14,8 @@ I'd love to get involved with any projects related to accessibility or tech for 
 🎨  I am interested in all areas of development, but my strengths and preferences lie in front-end. You can check out **[my profile on Codepen](https://codepen.io/augs0)** where I have some CSS-centric projects
 
 ⚙️  Please see **[my personal site for projects and more information](https://augustdev.netlify.app/)**
+ 
 
-⚡  Fun fact: My favourite animal is an otter <img width="70" align="center" alt="otter" src="https://image.shutterstock.com/image-photo/image-150nw-486183526.jpg"/>
-
-  
-</div>
   
 ---
 ## Languages and tools I can use:
