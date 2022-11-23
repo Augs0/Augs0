@@ -24,7 +24,7 @@ I'd love to get involved with any projects related to accessibility or tech for 
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" />
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" />
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react js"/>
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next js"/>
+<img width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="next js"/>
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgres sql" /><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" />
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest"/>
 
