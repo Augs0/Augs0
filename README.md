@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-
+# Hi, welcome to my profile 👋🏻
 
   
 I'd love to get involved with any projects related to accessibility or tech for good 🦸‍♀️
