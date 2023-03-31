@@ -38,7 +38,9 @@ I'd love to get involved with any projects related to accessibility or tech for 
   
 ### Frameworks
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react js"/>
-<img width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="next js"/><br/>
+<img width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="next js"/>
+<img width="50" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/vuejs-colored.svg" alt="vue js" />  
+<br/>
   
 ### Database management
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgres sql" /><br/>
