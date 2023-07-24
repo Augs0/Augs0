@@ -13,7 +13,6 @@ I'd love to get involved with any projects related to accessibility or tech for 
 
 ⚙️  Please see **[my personal site for projects and more information](https://augustdev.vercel.app/)**
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Augs0&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augs0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
   
