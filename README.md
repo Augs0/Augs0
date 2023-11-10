@@ -16,35 +16,19 @@ I'd love to get involved with any projects related to accessibility or tech for 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augs0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
   
-## Languages and tools I can use:
-### Markup and languages
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html 5"/>
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript"/><br/>
-  
-### Environments
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript"/>
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node js"/>
-
-### Styling
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css 3" />
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" />
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" /><br/>
-
- ### UI / design
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" />
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="storybook"
  />
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" />
-  <br/>
-  
-### Frameworks
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react js"/>
 <img width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="next js"/>
 <img width="50" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/vuejs-colored.svg" alt="vue js" />  
-<br/>
-  
-### Database management
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgres sql" /><br/>
-
-### Testing and task runners
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgres sql" />
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" />
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest"/>
 
