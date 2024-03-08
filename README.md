@@ -15,23 +15,5 @@ I'd love to get involved with any projects related to accessibility or tech for 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augs0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
-  
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html 5"/>
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript"/>
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node js"/>
-  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css 3" />
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" />
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" />
-  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="storybook"
- />
-  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" />
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react js"/>
-<img width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="next js"/>
-<img width="50" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/vuejs-colored.svg" alt="vue js" />  
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgres sql" />
-  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" />
-  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest"/>
-
----
 
 </div>
