@@ -5,7 +5,7 @@
   
 I'd love to get involved with any projects related to accessibility or tech for good 🦸‍♀️
   
-🌍  Speak to me in: English, 日本語, español, Deutsch, français, 한국어 and italiano. 
+🌍  Speak to me in: English, 日本語, español, 한국어, italiano, Deutsch, and français. Fluency may vary 😉 
 
 📝  Pronouns: she/her
 
