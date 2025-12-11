@@ -9,9 +9,8 @@ I'd love to get involved with any projects related to accessibility or tech for 
 
 📝  Pronouns: she/her
 
-🎨  I am interested in all areas of development, but my strengths and preferences lie in front-end. You can check out **[my profile on Codepen](https://codepen.io/augs0)** where I have some CSS-centric projects
+🎨  I am interested in all areas of development, but my strengths and preferences lie in front-end. 
 
-⚙️  Please see **[my personal site for projects and more information](https://augustdev.vercel.app/)**
  
 ---
 
